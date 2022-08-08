@@ -5,7 +5,6 @@
     '<div class="acessa_float_left acessa_float_description"><div>Book direct with us for the best prices!</div></div>'+
     '<div class="acessa_float_left acessa_float_dates">'+
     '<div class="dates_group">' +
-    '<label for="destination">Hostel:</label><select name="destination" id="dest"><option value="Oryx Tulum">Oryx Tulum</option><option value="Oryx Valladolid">Oryx Valladolid</option></select>'+
     '<div class="form_group start_date"><label class="control-label" for="widget_date_1276"  title="Check In">Check In</label>' +
     '<div class="input_group"><input type="text" class="date" name="widget_date" id="widget_date_1276" value="08/08/2022">' +
     '<input type="date" name="start_date_mobile" class="date_mobile widget_hide" id="start_date_mobile"></div>' +
